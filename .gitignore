@@ -1,0 +1,13 @@
+.env
+# Временные файлы Excel и macOS/Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Личные данные (на всякий случай, чтобы не залить оригинал по ошибке)
+data/raw/
+*Оригинал*.xlsx
+*Original*.xlsx
